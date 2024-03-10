@@ -1,6 +1,7 @@
-train: C:\dev_env\GIT\computer-vision-yolov8\computer_vision_yolov8\data\train
-val: C:\dev_env\GIT\computer-vision-yolov8\computer_vision_yolov8\data\val
+train: C:\dev_env\data\computer-vision-pack10\machine_video\train
+test: C:\dev_env\data\computer-vision-pack10\machine_video\test
+val: C:\dev_env\data\computer-vision-pack10\machine_video\val
 
-nc: 2
+nc: 3
 
-names: ["pack10_correct","pack10_defect"]
+names: ["ok_empty","ok_pack","defect_partial_pack"]
