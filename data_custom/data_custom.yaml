@@ -1,6 +1,6 @@
-train: C:\dev_env\data\computer-vision-pack10\machine_video\train
-test: C:\dev_env\data\computer-vision-pack10\machine_video\test
-val: C:\dev_env\data\computer-vision-pack10\machine_video\val
+train: /Users/lukaszm/Documents/wojtek/data/cv-pack10/train
+test: /Users/lukaszm/Documents/wojtek/data/cv-pack10/test
+val: /Users/lukaszm/Documents/wojtek/data/cv-pack10/val
 
 nc: 3
 
